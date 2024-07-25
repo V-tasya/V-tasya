@@ -9,7 +9,7 @@
 - Java (Swing)
 
 **Testing:**
-- I'm interested in the theory of testing and I've worked in Java with Selenium and with TestNG framework.
+- I'm interested in the theory of testing and I worked with Selenium and with TestNG framework.
 
 **Front-end Development:**
 - Now I'm learning HTML5 and CSS3.
@@ -58,4 +58,5 @@
 
 ### Contacts
 - Email: rabchinskayavita811@gmail.com
-- LinkedIn: ![my profile](https://www.linkedin.com/in/vitaliya-rabchynskaya-446569311)
+- LinkedIn: [my profile](https://www.linkedin.com/in/vitaliya-rabchynskaya-446569311)
+<hr/>
