@@ -1,4 +1,5 @@
 <img src="https://github.com/V-tasya/V-tasya/blob/main/assets/V%20(1).png" alt="Header" style="width: 100%;"/>
+<hr/>
 
 ## A purposeful, enthusiastic and active student in the field of Applied Computer Science with a thirst for learning and discovering something new 😊
 
@@ -24,6 +25,7 @@
 - I have experience in Figma and Canva. Here are links to my projects:
   -  [Working design version for application](https://www.figma.com/design/EtDMFAn7fzMPVqudetqoBY/Zodiakalna-IT-g%C4%99%C5%9B?node-id=0-1&t=Ys5vJNYnNgximDc2-1)
   -  [Website design](https://www.figma.com/design/hfgIVMlSqUkBsUiLFXppJu/Untitled?node-id=0-1&t=Nq18x01UGbgKhKd9-1)
+<hr/>
 
 ### Languages and Tools
 
@@ -52,5 +54,8 @@
 ![Discord](https://img.shields.io/badge/-Discord-F9F6EE?style=for-the-badge&logo=discord&logoColor=800080)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-F9F6EE?style=for-the-badge&logo=LinkedIn&logoColor=3F00FF)
 ![GMAIL](https://img.shields.io/badge/-Gmail-F9F6EE?style=for-the-badge&logo=gmail&logoColor=D27D2D)
+<hr/>
 
 ### Contacts
+- Email: rabchinskayavita811@gmail.com
+- LinkedIn: ![my profile](https://www.linkedin.com/in/vitaliya-rabchynskaya-446569311)
