@@ -1,7 +1,7 @@
 <img src="https://github.com/V-tasya/V-tasya/blob/main/assets/V%20(1).png" alt="Header" style="width: 100%;"/>
 <hr/>
 
-## A purposeful, enthusiastic and active student in the field of Applied Computer Science with a thirst for learning and discovering something new 😊
+## A purposeful, enthusiastic and active student in the field of Applied Computer Science with a thirst for learning and discovering something new 
 
 ### Skills
 
