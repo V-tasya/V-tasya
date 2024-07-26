@@ -1,4 +1,4 @@
-<img src="https://github.com/V-tasya/V-tasya/blob/main/assets/V%20(1).png" alt="Header" style="width: 100%;"/>
+<img src="https://github.com/V-tasya/V-tasya/blob/main/assets/V (2).png" alt="Header" style="width: 100%;"/>
 <hr/>
 
 ## A purposeful, enthusiastic and active student in the field of Applied Computer Science with a thirst for learning and discovering something new 
@@ -29,31 +29,31 @@
 
 ### Languages and Tools
 
-![Java](https://img.shields.io/badge/Java-F9F6EE?style=for-the-badge&logo=openjdk&logoColor=FF7518)
-![MIPS Assembly](https://img.shields.io/badge/-MIPS_Assembly-F9F6EE?style=for-the-badge&logo=gnu&logoColor=blue)
-![C](https://img.shields.io/badge/-C-F9F6EE?style=for-the-badge&logo=c&logoColor=009FFE)
-![Python](https://img.shields.io/badge/-Python-F9F6EE?style=for-the-badge&logo=python&logoColor=FCFF42)
-![HTML5](https://img.shields.io/badge/-HTML5-F9F6EE?style=for-the-badge&logo=html5&logoColor=FF5733)
-![CSS](https://img.shields.io/badge/-CSS-F9F6EE?style=for-the-badge&logo=css3&logoColor=0000FF)
-![Spring](https://img.shields.io/badge/-Spring-F9F6EE?style=for-the-badge&logo=spring&logoColor=7CFC00)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
+![MIPS Assembly](https://img.shields.io/badge/-MIPS_Assembly-000000?style=for-the-badge&logo=gnu&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![Spring](https://img.shields.io/badge/-Spring-000000?style=for-the-badge&logo=spring&logoColor=FFFFFF)
 
-![Selenium](https://img.shields.io/badge/-Selenium-F9F6EE?style=for-the-badge&logo=selenium&logoColor=228B22)
-![Apache Maven](https://img.shields.io/badge/-Apache_Maven-F9F6EE?style=for-the-badge&logo=apache-maven&logoColor=C71A36)
-![Gradle](https://img.shields.io/badge/-Gradle-F9F6EE?style=for-the-badge&logo=gradle&logoColor=F4D300)
-![TestNG](https://img.shields.io/badge/-TestNG-F9F6EE?style=for-the-badge&logo=testng&logoColor=F4D300)
-![Google Drive](https://img.shields.io/badge/-Google_Drive-F9F6EE?style=for-the-badge&logo=googledrive&logoColor=FFBF00)
+![Selenium](https://img.shields.io/badge/-Selenium-000000?style=for-the-badge&logo=selenium&logoColor=FFFFFF)
+![Apache Maven](https://img.shields.io/badge/-Apache_Maven-000000?style=for-the-badge&logo=apache-maven&logoColor=FFFFFF)
+![Gradle](https://img.shields.io/badge/-Gradle-000000?style=for-the-badge&logo=gradle&logoColor=FFFFFF)
+![TestNG](https://img.shields.io/badge/-TestNG-000000?style=for-the-badge&logo=testng&logoColor=FFFFFF)
+![Google Drive](https://img.shields.io/badge/-Google_Drive-000000?style=for-the-badge&logo=googledrive&logoColor=FFFFFF)
 
-![Git](https://img.shields.io/badge/-Git-F9F6EE?style=for-the-badge&logo=git&logoColor=FF4433)
-![GitHub](https://img.shields.io/badge/-GitHub-F9F6EE?style=for-the-badge&logo=github&logoColor=000000)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-F9F6EE?style=for-the-badge&logo=openai&logoColor=000000)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=FFFFFF)
 
-![Figma](https://img.shields.io/badge/-Figma-F9F6EE?style=for-the-badge&logo=figma&logoColor=9932CC)
-![Canva](https://img.shields.io/badge/-Canva-F9F6EE?style=for-the-badge&logo=canva&logoColor=00BFFF)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=FFFFFF)
+![Canva](https://img.shields.io/badge/-Canva-000000?style=for-the-badge&logo=canva&logoColor=FFFFFF)
 
-![Windows](https://img.shields.io/badge/-Windows-F9F6EE?style=for-the-badge&logo=windows&logoColor=00A4EF)
-![Discord](https://img.shields.io/badge/-Discord-F9F6EE?style=for-the-badge&logo=discord&logoColor=800080)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-F9F6EE?style=for-the-badge&logo=LinkedIn&logoColor=3F00FF)
-![GMAIL](https://img.shields.io/badge/-Gmail-F9F6EE?style=for-the-badge&logo=gmail&logoColor=D27D2D)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=windows&logoColor=FFFFFF)
+![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)
+![GMAIL](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF)
 <hr/>
 
 ### Contacts
