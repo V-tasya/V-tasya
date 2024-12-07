@@ -35,8 +35,11 @@
 ### Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
+![Scala](https://img.shields.io/badge/-Scala-000000?style=for-the-badge&logo=scala&logoColor=FFFFFF)
 ![MIPS Assembly](https://img.shields.io/badge/-MIPS_Assembly-000000?style=for-the-badge&logo=gnu&logoColor=FFFFFF)
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)
+![OCaml](https://img.shields.io/badge/-OCaml-000000?style=for-the-badge&logo=ocaml&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF)
