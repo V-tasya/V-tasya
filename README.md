@@ -7,7 +7,7 @@
 
 **Desktop App Development:**
 - Java (Swing)
-
+  
 **Testing:**
 - I'm interested in the theory of testing and I worked with Selenium and with TestNG framework.
 
@@ -17,7 +17,12 @@
 **Low-level Programming:**
 - MIPS Assembly
 - C
-
+- С++
+  
+**Functional Programming:**
+- Scala 3
+- OCaml
+  
 **Scripting:**
 - Python
 
